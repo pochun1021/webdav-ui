@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.393994fc.js",
-    "static/js/453.43e2b4ad.chunk.js": "/static/js/453.43e2b4ad.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.393994fc.js.map": "/static/js/main.393994fc.js.map",
-    "453.43e2b4ad.chunk.js.map": "/static/js/453.43e2b4ad.chunk.js.map"
+    "main.css": "/webdav-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/webdav-ui/static/js/main.9180d556.js",
+    "static/js/453.43e2b4ad.chunk.js": "/webdav-ui/static/js/453.43e2b4ad.chunk.js",
+    "index.html": "/webdav-ui/index.html",
+    "main.e6c13ad2.css.map": "/webdav-ui/static/css/main.e6c13ad2.css.map",
+    "main.9180d556.js.map": "/webdav-ui/static/js/main.9180d556.js.map",
+    "453.43e2b4ad.chunk.js.map": "/webdav-ui/static/js/453.43e2b4ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.393994fc.js"
+    "static/js/main.9180d556.js"
   ]
 }
